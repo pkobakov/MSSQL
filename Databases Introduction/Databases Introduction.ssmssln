@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Insert Records in Both Tables", "Insert Records in Both Tables\Insert Records in Both Tables.ssmssqlproj", "{32D19338-B3F1-47C9-B0AD-3EF981510B62}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Create Table People", "Create Table People\Create Table People.ssmssqlproj", "{68CB29C6-1D57-46B9-81E3-66136976AA02}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Create Table Users", "Create Table Users\Create Table Users.ssmssqlproj", "{463855F2-9D6C-4010-A85E-05F68B250A3A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Hotel Database", "Hotel Database\Hotel Database.ssmssqlproj", "{D1E191F3-858D-4590-AC4B-1AB8FCED553B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D19338-B3F1-47C9-B0AD-3EF981510B62}.Default|Default.ActiveCfg = Default
+		{68CB29C6-1D57-46B9-81E3-66136976AA02}.Default|Default.ActiveCfg = Default
+		{463855F2-9D6C-4010-A85E-05F68B250A3A}.Default|Default.ActiveCfg = Default
+		{F211F236-3A93-4866-A29E-1FE88CDE50DD}.Default|Default.ActiveCfg = Default
+		{D1E191F3-858D-4590-AC4B-1AB8FCED553B}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C1C5EE1-D75E-45E2-B025-F9BC58869257}
+	EndGlobalSection
+EndGlobal
